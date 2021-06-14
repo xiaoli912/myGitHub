@@ -2,6 +2,6 @@ package com.demo;
 
 public class hiGitHub {
     public static void main(String[] args) {
-        System.out.println("GitHub,111!");
+        System.out.println("hello");
     }
 }
